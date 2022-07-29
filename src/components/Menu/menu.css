@@ -1,0 +1,26 @@
+.container-menu {
+  background-color: var(--background-primary);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 6rem;
+  overflow: hidden;
+}
+
+.image-logo {
+  width: 12rem;
+  height: 8rem;
+}
+
+.menu {
+  display: flex;
+}
+.item {
+  margin: 0 2rem;
+}
+.link {
+  color: var(--color-tertiary);
+  font-size: 1.4rem;
+  font-weight: bold;
+}

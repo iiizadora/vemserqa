@@ -1,0 +1,29 @@
+.container-about {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin: 4rem 8rem;
+}
+.about-tittle {
+  font-family: "DM Sans", sans-serif;
+  font-size: 10rem;
+  color: var(--color-primary);
+}
+.about-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.about-image {
+  width: 40rem;
+  height: 35rem;
+}
+
+.about-text {
+  width: 57rem;
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-text);
+}

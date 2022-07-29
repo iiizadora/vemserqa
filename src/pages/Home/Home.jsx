@@ -1,7 +1,9 @@
+import About from "../../components/About/About";
+
 function Home() {
   return (
     <>
-      <h1>Home</h1>
+      <About></About>
     </>
   );
 }
