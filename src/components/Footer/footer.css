@@ -1,17 +1,23 @@
-.footer-container{
- display: flex;
- justify-content: center;
- height: 5rem;
- background-color: var(--background-primary);
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5rem;
+  background-color: var(--background-primary);
+
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 
-.footer-text{
-  font-size:1.8rem ;
-  color:var(--color-tertiary);
+.footer-text {
+  font-size: 1.8rem;
+  color: var(--color-tertiary);
 }
 
-.footer-link{
-  color: var( --color-secondary);
+.footer-link {
+  color: var(--color-secondary);
   font-size: 1.8rem;
   font-weight: bold;
   margin-left: 1rem;
