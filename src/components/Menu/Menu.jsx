@@ -17,7 +17,7 @@ function Menu() {
             </Link>
           </li>
           <li className="item">
-            <Link className="link" to="/historia">
+            <Link className="link" to="/carreira">
               Carreira
             </Link>
           </li>

@@ -1,0 +1,31 @@
+.container-content {
+  height: 54.6rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center; 
+  justify-content: space-between;
+  margin: 4rem 8rem;  
+}
+.box-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 57rem;
+}
+.container{
+  background-color: var(--color-primary);
+}
+
+.image-content {
+  width: 40rem;
+  height: 35rem;
+}
+
+.tittle{
+  font-family: "DM Sans", sans-serif;
+  font-size: 4rem;
+  font-weight: bold;
+  color: var( --color-tertiary);
+  margin-bottom: 5rem;
+}

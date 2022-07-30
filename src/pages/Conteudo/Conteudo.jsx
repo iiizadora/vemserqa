@@ -1,7 +1,10 @@
+import About from "../../components/About/About";
+
 function Conteudo() {
   return (
     <>
-      <h1>Conteúdo</h1>
+    
+      <h1>Carreira</h1>
     </>
   );
 }

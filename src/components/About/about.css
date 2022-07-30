@@ -1,5 +1,5 @@
 .container-about {
-  height: 58.6rem;
+  height: 54.6rem;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -8,7 +8,7 @@
 }
 .about-tittle {
   font-family: "DM Sans", sans-serif;
-  font-size: 10rem;
+  font-size: 9rem;
   color: var(--color-primary);
 }
 .about-info {
@@ -27,4 +27,5 @@
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--color-text);
+  text-align: justify;
 }
