@@ -12,13 +12,13 @@
 }
 
 .footer-text {
-  font-size: 1.8rem;
+  font-size: 1.3rem;
   color: var(--color-tertiary);
 }
 
 .footer-link {
   color: var(--color-secondary);
-  font-size: 1.8rem;
+  font-size: 1.3rem;
   font-weight: bold;
   margin-left: 1rem;
 }

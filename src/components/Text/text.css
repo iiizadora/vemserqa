@@ -1,0 +1,20 @@
+.container-biblioteca{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 8.5rem;
+  height: 12rem;
+}
+
+.tittleParagrafo{
+  font-size: 3rem;
+  color: var( --color-primary);
+  font-family: "DM Sans", sans-serif;
+}
+
+.textParagrafo{
+  font-size: 1.5rem;
+  color: var(--color-text);
+
+}
