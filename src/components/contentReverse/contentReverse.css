@@ -1,0 +1,75 @@
+.container-contentReverse {
+  height: 54.6rem;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  align-items: center; 
+  justify-content: space-between;
+  margin: 4rem 8rem;  
+}
+.box-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 57rem;
+  
+}
+
+.image-contentReverse {
+  width: 40rem;
+  height: 35rem;
+}
+
+.tittleReverse{
+  font-family: "DM Sans", sans-serif;
+  font-size: 4rem;
+  font-weight: bold;
+  color: var(--color-primary);
+  
+}
+/*Botão que leva para biblioteca*/
+
+.container-buttonReverse{
+  position: absolute;
+  transform: translate(-50%,-50%);
+  margin-top: 30rem;
+  }
+
+.buttonReverse {
+  position: relative;
+  display: block;
+  color: var(--background-primary);
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: "Space Mono", monospace;
+  text-decoration: none;
+  letter-spacing: 0.2rem;
+  margin: 30px 0;
+  border: 2px solid var(--background-primary);
+  padding: 14px 50px;
+  text-transform: uppercase;
+  overflow: hidden;
+  transition: 1s all ease;
+}
+
+.buttonReverse::before {
+  background:var(--color-primary);  
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  transition: all 0.6s ease;
+}
+.buttonReverse::before {
+  width: 0%;
+  height: 100%;
+  
+}
+
+.buttonReverse:hover::before {
+  width: 100%;
+  
+}

@@ -1,4 +1,4 @@
-function Aprendizado() {
+function Bibliotecaqa() {
   return (
     <>
       <h1>Aprendizado</h1>
@@ -6,4 +6,4 @@ function Aprendizado() {
   );
 }
 
-export default Aprendizado;
+export default Bibliotecaqa;

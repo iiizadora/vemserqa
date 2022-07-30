@@ -1,7 +1,9 @@
 import About from "../../components/About/About";
+import ContentReverse from "../../components/contentReverse/ContentReverse";
 import Content from "../../components/content/Content";
 import Testes from "../../img/qaengineers1.svg";
 import QAImage from "../../img/qaengineers2.svg";
+import QABiblioteca from "../../img/biblioteca.svg"
 function Home() {
   return (
     <>
@@ -16,9 +18,14 @@ function Home() {
       />
       <Content
       image={QAImage}
-      tittle ="Você sabe o que um QA faz?"
+      tittle ="Você sabe o que um QA faz?"      
       />
-      <About/>
+      <ContentReverse
+      image={QABiblioteca}
+      tittle ="Conheça a nossa biblioteca de conteúdo da área!"  
+      />
+      
+     
 </>
   );
 }
