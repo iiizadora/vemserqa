@@ -1,4 +1,4 @@
-.container-biblioteca{
+.container-biblioteca {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -7,14 +7,15 @@
   height: 12rem;
 }
 
-.tittleParagrafo{
+.tittleParagrafo {
   font-size: 3rem;
-  color: var( --color-primary);
+  color: var(--color-primary);
   font-family: "DM Sans", sans-serif;
+  padding-top: 8rem;
 }
 
-.textParagrafo{
+.textParagrafo {
   font-size: 1.5rem;
   color: var(--color-text);
-
+  margin: 2rem 5rem;
 }

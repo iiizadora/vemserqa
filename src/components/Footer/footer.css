@@ -5,10 +5,7 @@
   height: 5rem;
   background-color: var(--background-primary);
 
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  left: 0;
+  
 }
 
 .footer-text {

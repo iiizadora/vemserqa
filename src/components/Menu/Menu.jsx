@@ -13,7 +13,7 @@ function Menu() {
         <ul className="menu">
           <li className="item">
             <Link className="link" to="/">
-              Inicio
+              Início
             </Link>
           </li>
           <li className="item">
@@ -24,11 +24,6 @@ function Menu() {
           <li className="item">
             <Link className="link" to="/bibliotecaqa">
               Biblioteca QA
-            </Link>
-          </li>
-          <li className="item">
-            <Link className="link" to="/quiz">
-              Quiz
             </Link>
           </li>
         </ul>
