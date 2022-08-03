@@ -17,8 +17,8 @@ function Menu() {
             </Link>
           </li>
           <li className="item">
-            <Link className="link" to="/carreira">
-              Carreira
+            <Link className="link" to="/guia">
+              Guia
             </Link>
           </li>
           <li className="item">

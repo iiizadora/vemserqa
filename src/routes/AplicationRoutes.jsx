@@ -11,7 +11,7 @@ function AplicationRoutes() {
       <Menu />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="carreira" element={<Conteudo />} />
+        <Route path="guia" element={<Conteudo />} />
         <Route path="bibliotecaqa" element={<Bibliotecaqa />} />
         <Route path="quiz" element={<Quiz />} />
       </Routes>

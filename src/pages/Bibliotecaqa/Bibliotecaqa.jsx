@@ -1,6 +1,5 @@
-import Card from "../../components/Card/Card";
+import Card from "../../../Card/Card";
 import Text from "../../components/Text/Text";
-
 
 function Bibliotecaqa() {
   return (
