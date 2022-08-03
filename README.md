@@ -16,9 +16,10 @@ A ideia foi desenvolver um site que trouxesse de forma mais fácil as informaç�
 
 Confira o página da web aqui: [Vem ser QA](https://vemserqa.netlify.app/).
 
-# Pontos de melhoria
+# Implementações futuras 
 
 - Criar um quiz utilizando uma API para ser consumida
 - Ajustar responsividade
 - Adicionar mais conteúdo dentro da página biblioteca QA
-- Refatorar o projeto
+- Adicionar uma biblioteca do react de slide na página carreira
+- Refatorar o projeto 
