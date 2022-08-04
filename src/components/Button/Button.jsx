@@ -4,7 +4,7 @@ import "./button.css";
 function Button(props) {
   return (
     <div className="container-button">
-      <Link className="button" to="/carreira">
+      <Link className="button" to="/guia">
         {props.text}
       </Link>
     </div>

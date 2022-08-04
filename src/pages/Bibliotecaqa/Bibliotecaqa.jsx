@@ -1,6 +1,7 @@
-import Card from "../../../Card/Card";
+import Card from "../../components/About/Card/Card";
 import Text from "../../components/Text/Text";
-
+import Slider from "../../components/Slider/Slider";
+import "swiper/css";
 function Bibliotecaqa() {
   return (
     <>
@@ -13,7 +14,9 @@ function Bibliotecaqa() {
         </div>
       </div>
 
-      <Card/>
+      <div className="section_slider_container">
+        <Slider />
+      </div>
     </>
   );
 }

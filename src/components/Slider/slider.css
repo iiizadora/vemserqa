@@ -1,0 +1,23 @@
+.swiper {
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+/* cada slide do swiper */
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: var(--color-primary);
+}
+
+.swiper-button-prev {
+  color: var(--background-primary);
+}
+
+.swiper-button-next {
+  color: var(--background-primary);
+}
