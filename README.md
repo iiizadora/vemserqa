@@ -1,6 +1,6 @@
 # Vem ser QA!
 
-<img src="https://media.giphy.com/media/PS25BboEb9tUfgkkW1/giphy.gif">
+<img src="https://media.giphy.com/media/J1poM6LKbCq1SN802r/giphy.gif">
 Site desenvolvido como projeto final do bootcamp de front-end da Reprograma!
 
 A ideia foi desenvolver um site que trouxesse de forma mais fácil as informação sobre a área de QA.
@@ -16,10 +16,10 @@ A ideia foi desenvolver um site que trouxesse de forma mais fácil as informaç�
 
 Confira o página da web aqui: [Vem ser QA](https://vemserqa.netlify.app/).
 
-# Implementações futuras 
+# Implementações futuras
 
 - Criar um quiz utilizando uma API para ser consumida
 - Ajustar responsividade
-- Adicionar mais conteúdo dentro da página biblioteca QA
-- Adicionar uma biblioteca do react de slide na página carreira
-- Refatorar o projeto 
+- Adicionar mais conteúdo dentro da página Biblioteca QA
+- Adicionar as informações de roadmap na página Guia
+- Refatorar o projeto
