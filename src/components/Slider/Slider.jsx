@@ -37,7 +37,7 @@ function Slider() {
         </SwiperSlide>
         <SwiperSlide>
           <Card
-            title={"Pessonizado"}
+            title={"Pessonizando"}
             video={"https://www.youtube.com/embed/NnamjfPYuiY"}
             textOne={
               "Vinicius Pessoni fala sobre Programação, Teste de Software, Carreira em Computação e como é viver e trabalhar com TI na Europa."
